@@ -4,12 +4,12 @@
 //
 // @author			    Man Yiu
 // @namespace       http://github.com/manyiu
-// @downloadURL		  https://raw.github.com/manyiu/leetcode-hide/master/index.js
+// @downloadURL		  https://raw.githubusercontent.com/manyiu/leetcode-hide/main/index.js
 //
 // @match			      https://leetcode.com/problemset/*
 //
 // @version         1.0
-// @updateURL		    https://raw.github.com/manyiu/leetcode-hide/master/index.js
+// @updateURL		    https://raw.githubusercontent.com/manyiu/leetcode-hide/main/index.js
 //
 // @run-at			    document-end
 // @unwrap
